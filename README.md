@@ -1,3 +1,5 @@
+<meta name="tiktok-developers-site-verification" content="022A3Hm5fhHqnLnkGW9QAhtTZ8C6wqqg">
+
 <h1>Privacy Policy</h1>
 <p>This app uploads videos to TikTok on behalf of the user. No personal data is collected or shared with third parties.</p>
 
